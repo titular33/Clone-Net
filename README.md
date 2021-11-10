@@ -49,5 +49,6 @@ Os direitos de imagem são reservados a empresa Netflix
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-
-Feito com ♥ by Angelo Fernandes 
+Dono Pedro Amorim
+Todos os creditos by Angelo Fernandes 
+https://github.com/Fernnandez
